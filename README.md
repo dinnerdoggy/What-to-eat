@@ -21,6 +21,11 @@ To do:
 Things that would make this app consumer friendly:
 --------------------------------------------------
 *A gui with button input rather than typing that can help eliminate user error.
+
 *Smart fridge integration for less user input overall
+
 *barcode or receipt scanning for grocery input
+
 *any amount of automation to reduce user input
+
+****Run the program in your chosen shell. You have to have all the files in the same folder for the program to work****
