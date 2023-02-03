@@ -57,7 +57,10 @@ while True:
     elif groceries == "done":
         break
     else:
-        pass
+        g[groceries] = 0
+        print("How many serving are in", groceries, "?")
+        servings = input()
+        g[groceries] = servings
 
 #List updated list of ingredients
 print("Here is your updated list of in-house ingredients")
