@@ -14,9 +14,8 @@ used ingredients from the dictionary.
 
 To do:
 ------
-*Enable user to input new ingredients that are not already stored in the dictionary.
- As of right now, if you attempt to add an ingredient not already stored, that entry
- will be ignored
+*The "else clause" in lines 59 - 63 work, but are problematic in their current form. If there is a user error, there currently
+ is no way to undo the error for the user, and so whatever mistake is made will become recorded into the dictionary.
 
 Things that would make this app consumer friendly:
 --------------------------------------------------
