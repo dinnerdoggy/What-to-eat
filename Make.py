@@ -58,7 +58,7 @@ while True:
         break
     else:
         g[groceries] = 0
-        print("How many serving are in", groceries, "?")
+        print("How many servings are in", groceries + "?")
         servings = input()
         g[groceries] = servings
 
