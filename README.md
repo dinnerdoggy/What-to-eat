@@ -18,7 +18,8 @@ Note:
  is no way to undo the error for the user, and so whatever mistake is made will become recorded into the dictionary.
  You can however, delete the pickle file and start a new dictionary if needed.
 
-Things that would make this app consumer friendly:
+I may in the future decide to make this a consumer friendly application. If I do that
+The user experience can be improved by the following:
 --------------------------------------------------
 *A gui with button input rather than typing that can help eliminate user error.
 
