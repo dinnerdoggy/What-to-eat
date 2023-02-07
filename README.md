@@ -28,5 +28,6 @@ The user experience can be improved by the following:
 *barcode or receipt scanning for grocery input
 
 *any amount of automation to reduce user input
+---------------------------------------------------
 
 ****Run the program in your chosen shell. You have to have all the files in the same folder for the program to work****
