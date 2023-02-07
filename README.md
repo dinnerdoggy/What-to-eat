@@ -12,10 +12,11 @@ and it will then show you a list of recipes that you can make with what you have
 your chosen recipe, it will print out the recipe for you to follow along, as well as subtract the 
 used ingredients from the dictionary.
 
-Next to do:
+Note:
 ------
 *The "else clause" in lines 59 - 63 work, but are problematic in their current form. If there is a user error, there currently
  is no way to undo the error for the user, and so whatever mistake is made will become recorded into the dictionary.
+ You can however, delete the pickle file and start a new dictionary if needed.
 
 Things that would make this app consumer friendly:
 --------------------------------------------------
